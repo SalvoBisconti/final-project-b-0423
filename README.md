@@ -20,6 +20,7 @@ In order to minimize fetch calls to the API, a global state has been implemented
     <li>CoinGecko API</li>
     <li>Css modules</li>
     <li>HTML</li>
+     <li>Local storage</li>
     <li>Next.js</li>
     <li>Sass</li>
 
