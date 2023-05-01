@@ -21,7 +21,6 @@ In order to minimize fetch calls to the API, a global state has been implemented
     <li>Css modules</li>
     <li>HTML</li>
     <li>Next.js</li>
-    <li>React.js</li>
     <li>Sass</li>
 
   </ul>
